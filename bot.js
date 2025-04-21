@@ -3,9 +3,9 @@ const fs = require('fs')
 
 // Configuration
 const BOT_TOKEN = '7941763154:AAE5P1JPrUrdnf1F_Fbn9snsF9jcE94-Z90'
-const ADMIN_ID = 6048265605
-const CHANNEL_ID = -1002373935837
-const CHANNEL_LINK = 'https://t.me/+kQyAexYL4J84MTll'
+const ADMIN_ID = 6994528708
+const CHANNEL_ID = -1002420029455
+const CHANNEL_LINK = 'https://t.me/+IGuHMrz7ASszZDg1'
 const REDEMPTION_USERNAME = '@Its_solox'
 
 const bot = new Telegraf(BOT_TOKEN)
